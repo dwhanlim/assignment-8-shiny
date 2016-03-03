@@ -1,6 +1,7 @@
 Submission
 ----------
-Link to the application 
+Link to the shiny application 
+
 https://dwhanlim.shinyapps.io/assignment-8-shiny/
 
 This application uses a default data frame installed within RStudio and uses that data set to create a shiny application. The application has very few but simple functions that it can perform. It allows the user to choose between petals and sepals on a flower
